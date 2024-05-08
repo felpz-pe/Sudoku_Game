@@ -1,0 +1,16 @@
+.square {
+    display: inline-block;
+    background-color: #008000;
+    margin-top: 1px 4px;
+    border: 2px solid white;
+}
+
+.square-in {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0px -2px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    overflow: visible;
+
+}
